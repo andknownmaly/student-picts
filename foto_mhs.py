@@ -53,7 +53,7 @@ def scrape_foto_mhs(prodi_data, angkatan_list, main_folder):
             for nim_int in range(0, 10000):
                 nim = f"{nim_int:04d}"
                 url = f"https://fotomhs.amikom.ac.id/{angkatan_full}/{angkatan}_{kode_prodi}_{nim}.jpg"
-                save_filename = f"{angkatan_full}_{nim}.jpg"
+                save_filename = f"{angkatan}_{kode_prodi}_{nim}.jpg"
                 save_path = os.path.join(prodi_folder, save_filename)
                 download_tasks.append((url, save_path))
     
