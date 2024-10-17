@@ -1,0 +1,170 @@
+[
+    {
+      "id": "3",
+      "id_fakultas": "1",
+      "jenjang": "D3",
+      "kode": "02",
+      "nama_prodi": "Manajemen Informatika",
+      "status": "Y"
+    },
+    {
+      "id": "4",
+      "id_fakultas": "1",
+      "jenjang": "S1",
+      "kode": "11",
+      "nama_prodi": "Informatika Reguler",
+      "status": "Y"
+    },
+    {
+      "id": "5",
+      "id_fakultas": "1",
+      "jenjang": "D3",
+      "kode": "01",
+      "nama_prodi": "Teknik Informatika",
+      "status": "Y"
+    },
+    {
+      "id": "6",
+      "id_fakultas": "1",
+      "jenjang": "S1",
+      "kode": "12",
+      "nama_prodi": "Sistem Informasi Reguler",
+      "status": "Y"
+    },
+    {
+      "id": "7",
+      "id_fakultas": "1",
+      "jenjang": "S1",
+      "kode": "22",
+      "nama_prodi": "Sistem Informasi TR",
+      "status": "Y"
+    },
+    {
+      "id": "8",
+      "id_fakultas": "1",
+      "jenjang": "S1",
+      "kode": "21",
+      "nama_prodi": "Informatika TR",
+      "status": "Y"
+    },
+    {
+      "id": "9",
+      "id_fakultas": "1",
+      "jenjang": "S1",
+      "kode": "83",
+      "nama_prodi": "Teknik Komputer",
+      "status": "Y"
+    },
+    {
+      "id": "10",
+      "id_fakultas": "1",
+      "jenjang": "S1",
+      "kode": "82",
+      "nama_prodi": "Teknologi Informasi",
+      "status": "Y"
+    },
+    {
+      "id": "11",
+      "id_fakultas": "3",
+      "jenjang": "S1",
+      "kode": "84",
+      "nama_prodi": "Arsitektur",
+      "status": "Y"
+    },
+    {
+      "id": "12",
+      "id_fakultas": "3",
+      "jenjang": "S1",
+      "kode": "85",
+      "nama_prodi": "Geografi",
+      "status": "Y"
+    },
+    {
+      "id": "13",
+      "id_fakultas": "3",
+      "jenjang": "S1",
+      "kode": "86",
+      "nama_prodi": "Perancangan WIlayah dan Kota",
+      "status": "Y"
+    },
+    {
+      "id": "14",
+      "id_fakultas": "2",
+      "jenjang": "S1",
+      "kode": "91",
+      "nama_prodi": "Ekonomi",
+      "status": "Y"
+    },
+    {
+      "id": "15",
+      "id_fakultas": "2",
+      "jenjang": "S1",
+      "kode": "92",
+      "nama_prodi": "Kewirausahaan",
+      "status": "Y"
+    },
+    {
+      "id": "16",
+      "id_fakultas": "2",
+      "jenjang": "S1",
+      "kode": "93",
+      "nama_prodi": "Akuntansi",
+      "status": "Y"
+    },
+    {
+      "id": "17",
+      "id_fakultas": "2",
+      "jenjang": "S1",
+      "kode": "94",
+      "nama_prodi": "Ilmu Pemerintahan",
+      "status": "Y"
+    },
+    {
+      "id": "18",
+      "id_fakultas": "2",
+      "jenjang": "S1",
+      "kode": "95",
+      "nama_prodi": "Hubungan Internasional",
+      "status": "Y"
+    },
+    {
+      "id": "19",
+      "id_fakultas": "2",
+      "jenjang": "S1",
+      "kode": "96",
+      "nama_prodi": "Ilmu Komunikasi",
+      "status": "Y"
+    },
+    {
+      "id": "20",
+      "id_fakultas": "1",
+      "jenjang": "S1",
+      "kode": "62",
+      "nama_prodi": "BCIS",
+      "status": "Y"
+    },
+    {
+      "id": "21",
+      "id_fakultas": "1",
+      "jenjang": "S1",
+      "kode": "60",
+      "nama_prodi": "BCIT",
+      "status": "Y"
+    },
+    {
+      "id": "22",
+      "id_fakultas": "1",
+      "jenjang": "S1",
+      "kode": "61",
+      "nama_prodi": "BCI",
+      "status": "Y"
+    },
+    {
+      "id": "23",
+      "id_fakultas": "2",
+      "jenjang": "S1",
+      "kode": "67",
+      "nama_prodi": "Ilmu Komunikasi Internasional",
+      "status": "Y"
+    }
+  ]
