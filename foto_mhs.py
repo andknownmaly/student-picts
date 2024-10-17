@@ -6,7 +6,7 @@ from pathlib import Path
 from concurrent.futures import ThreadPoolExecutor, as_completed
 import time
 
-ANGKATAN_LIST = ['19']
+ANGKATAN_LIST = ['19', '20', '21', '22', '23', '24']
 MAIN_FOLDER = 'foto_mhs'
 ZIP_NAME = 'foto_mhs.zip'
 PRODI_JSON_PATH = 'prodi.json'
