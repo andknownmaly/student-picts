@@ -7,3 +7,4 @@ this tools always work before the bug is updated/fixed
 
 
 disclaimer : this tools is build for educational purpose
+oeringatan, Device/network kamu bakal di blokir amikom.ac.id
