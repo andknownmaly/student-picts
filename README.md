@@ -1,4 +1,4 @@
-# scrapper
+# Amikom Students Enumerator
 
 this tools is used for get all picture of students in amikom.ac.id
 
