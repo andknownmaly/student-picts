@@ -1,4 +1,6 @@
 # Amikom Students Enumerator
+
+# Bug Fixed, this tool does'nt work anymore
 ---
 ![image](https://github.com/user-attachments/assets/fc9df9a4-f0b8-42ad-ba31-f9365256faa6)
 ---
@@ -10,8 +12,6 @@ this tools always work before the bug is updated/fixed
 
 disclaimer : this tools is build for educational purpose
 
-
-# Bug Fixed, this tool does'nt work anymore
 
 ---
 # Important Information: Student Photo System Vulnerabilities
