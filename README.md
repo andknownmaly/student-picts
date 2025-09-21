@@ -10,6 +10,9 @@ this tools always work before the bug is updated/fixed
 
 disclaimer : this tools is build for educational purpose
 
+
+# Bug Fixed, this tool does'nt work anymore
+
 ---
 # Important Information: Student Photo System Vulnerabilities
 
