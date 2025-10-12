@@ -1,6 +1,6 @@
 # Amikom Students Enumerator
 
-# Bug Fixed, this tool does'nt work anymore
+# Bug Fixed, this tool doesn't work anymore
 ---
 ![image](https://github.com/user-attachments/assets/fc9df9a4-f0b8-42ad-ba31-f9365256faa6)
 ---
