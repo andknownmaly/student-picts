@@ -1,6 +1,6 @@
 # 🧩 Amikom Students Enumerator
 
-> ⚠️ **Status:** Deprecated – this tool no longer works (the vulnerability has been fixed).
+<!-- > ⚠️ **Status:** Deprecated – this tool no longer works (the vulnerability has been fixed). -->
 > 🧠 *This project was developed purely for educational and ethical security research purposes.*
 
 ---
